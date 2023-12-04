@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hey there! 👋 I'm Abdulrahman AlGhofaily, a computer science student at Imam Muhammed ibn Saud University. Currently, I'm focusing on honing my skills as a frontend developer. I love creating captivating user interfaces and crafting seamless experiences for websites.
+Hey there! 👋 I'm Abdulrahman AlGhofaily, a computer science Graduate. Currently, I'm focusing on honing my skills as a frontend developer. I love creating captivating user interfaces and crafting seamless experiences for websites.
 
 ## Skills
 
