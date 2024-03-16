@@ -13,7 +13,6 @@ Hey there! 👋 I'm Abdulrahman AlGhofaily, a computer science Graduate. Current
 
 ## Social Media
 
-✖️ Follow me on X: [@Ghofaily_dev](https://twitter.com/Ghofaily_dev)  
 💼 Connect with me on LinkedIn: [Abdulrahman AlGhofaily](https://www.linkedin.com/in/abdulrahman-alghofaily/)
 
 Let's connect and collaborate on exciting projects! Feel free to reach out to me. 😄
