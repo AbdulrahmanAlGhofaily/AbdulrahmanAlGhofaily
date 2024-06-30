@@ -1,6 +1,6 @@
 # Abdulrahman AlGhofaily
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ghofaily_dev?style=social)](https://twitter.com/Ghofaily_dev) [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abdulrahman-alghofaily/)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abdulrahman-alghofaily/)
 
 ## About Me
 
