@@ -8,8 +8,9 @@ Hey there! 👋 I'm Abdulrahman AlGhofaily, a computer science Graduate. Current
 
 ## Skills
 
-- Languages: JavaScript (TypeScript), CSS (Sass), HTML, Python
+- Languages: JavaScript (TypeScript), CSS (Sass), HTML, Python, SQL.
 - Tools: Figma
+- Frameworks: ReactJS.
 
 ## Social Media
 
